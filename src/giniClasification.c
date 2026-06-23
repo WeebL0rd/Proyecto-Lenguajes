@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "clasificacion.h"
+#include "../include/giniClasification.h"
 
 void clasificar_gini(float gini) {
     printf("Clasificacion de la distribución del ingreso: ");
