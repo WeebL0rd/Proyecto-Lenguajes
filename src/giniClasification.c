@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "../include/giniClasification.h"
 
-void clasificar_gini(float gini) {
+void clasificarGini(float gini) {
     printf("Clasificacion de la distribución del ingreso: ");
 
     if (gini < 0.30) {
